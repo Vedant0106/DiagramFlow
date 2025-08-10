@@ -93,10 +93,6 @@ export default function HomePage() {
       {/* Hero Section */}
       <section className="container mx-auto px-4 py-16 text-center">
         <div className="max-w-4xl mx-auto">
-          <Badge variant="secondary" className="mb-4">
-            <Star className="w-3 h-3 mr-1" />
-            Trusted by 10M+ users worldwide
-          </Badge>
           <h1 className="text-5xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-blue-600 via-purple-600 to-blue-800 bg-clip-text text-transparent">
             Professional Diagram Maker & Flowchart Software
           </h1>
