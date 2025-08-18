@@ -1,45 +1,30 @@
-Diagram Flow Editor
+# Diagram Flow Editor
 
-A lightweight, browser-based diagramming tool designed for creating flowcharts, wireframes, and process diagrams. Built with simplicity and usability in mind, it provides an intuitive interface for users to design and visualize their ideas effortlessly.
-Wikipedia
+A lightweight, browser-based tool to create flowcharts, wireframes, and process diagrams with ease.
 
-Features
+## Features
 
-User-Friendly Interface: Drag-and-drop elements with real-time editing.
+- **Drag-and-Drop Interface**: Easily add and move shapes on the canvas.
+- **Shape Library**: Includes rectangles, circles, diamonds, text boxes, and arrows.
+- **Flowchart Elements**: Supports process, decision, and start/end symbols.
+- **Property Editor**: Customize shapes, colors, text, and connectors.
+- **Zoom & Pan**: Navigate large diagrams smoothly.
+- **Export Options**: Save diagrams in various formats (PNG, SVG, JSON).
 
-Shape Library: Includes rectangles, circles, diamonds, text boxes, and various arrows.
+## Getting Started
 
-Flowchart Elements: Supports process, decision, and start/end symbols.
+1. Open the editor: [Diagram Flow Editor](https://diagram-flow-self.vercel.app/editor)
+2. Drag shapes from the library onto the canvas.
+3. Connect shapes using arrows to define the flow.
+4. Customize each element's properties.
+5. Use zoom and pan to navigate.
+6. Export your diagram when finished.
 
-Property Editor: Customize shapes and connectors with adjustable properties.
+## Usage Tips
 
-Zoom & Pan: Navigate your diagram with ease using zoom and pan controls.
+- Group related elements for clarity.
+- Save frequently to avoid losing work.
+- Use meaningful labels on connectors for readability.
+- Explore different shapes and styles to represent processes effectively.
 
-Export Options: Save your diagrams in multiple formats for sharing and embedding.
-Vercel
-+1
 
-Getting Started
-
-Visit the Diagram Flow Editor.
-
-Use the shape library to drag elements onto the canvas.
-
-Connect elements using arrows to represent flow.
-
-Customize each element's properties as needed.
-
-Zoom and pan to adjust your view.
-
-Export your diagram when finished.
-
-Usage Tips
-
-Utilize the Zoom feature to focus on specific areas of your diagram.
-
-Group related elements together for better organization.
-
-Regularly save your work to prevent data loss.
-
-Use the Export function to share your diagrams with others or for documentation purposes.
-Zapier
